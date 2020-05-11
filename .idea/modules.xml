@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/git-view-command-service/git-view-command-service.iml" filepath="$PROJECT_DIR$/git-view-command-service/git-view-command-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git-view-query-service/git-view-query-service.iml" filepath="$PROJECT_DIR$/git-view-query-service/git-view-query-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git-views.iml" filepath="$PROJECT_DIR$/git-views.iml" />
+    </modules>
+  </component>
+</project>
